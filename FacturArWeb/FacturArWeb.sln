@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacturArWeb", "FacturArWeb\FacturArWeb.csproj", "{917DC15F-2E8E-46A2-B08B-4DA617F3738F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{917DC15F-2E8E-46A2-B08B-4DA617F3738F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{917DC15F-2E8E-46A2-B08B-4DA617F3738F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{917DC15F-2E8E-46A2-B08B-4DA617F3738F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{917DC15F-2E8E-46A2-B08B-4DA617F3738F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
