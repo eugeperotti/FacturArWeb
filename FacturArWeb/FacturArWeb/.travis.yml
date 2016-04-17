@@ -1,7 +1,0 @@
-language: csharp
-solution: FacturArWeb.sln
-install:
-  - nuget restore FacturArWeb.sln
-script:
-  - xbuild /p:Configuration=Release FacturArWeb.sln
-  # - mono ./testrunner/NUnit.Runners.2.6.4/tools/nunit-console.exe ./MyPoject.Tests/bin/Release/MyProject.Tests.dll
