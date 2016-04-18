@@ -1,3 +1,3 @@
 # FacturArWeb
 language: csharp
-solution: FacturArWeb.sln
+solution: FacturArWeb/FacturArWeb.sln
